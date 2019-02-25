@@ -1,0 +1,23 @@
+{
+  "name": "soulfoodfactory_wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrecyJean/Responsive-Local-Restaurant-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrecyJean/Responsive-Local-Restaurant-App/issues"
+  },
+  "homepage": "https://grecyjean.github.io/localrestaurant",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
